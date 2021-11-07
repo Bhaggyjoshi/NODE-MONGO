@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Mac book",
+        "price": 60000,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "name": "Lenvo",
+        "price": 55000,
+        "rating": 4.4
+    },
+    {
+        "id": 4,
+        "name": "HP",
+        "price": 64000,
+        "rating": 4.5
+    }
+]
