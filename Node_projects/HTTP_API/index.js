@@ -16,10 +16,10 @@ mongoose.connect("mongodb://localhost:27017/products")
 // schema for program collections
 
 let productSchema = new mongoose.Schema({
-    name:String,
-    price:Number,
-    rating:Number,
-    category:String
+    name:{type:String,required:true,validate()},
+    price:{type:Number,required:true},
+    rating:{type:Number,required:true},
+    category:{type:String,required:true}
 })
 
 // model for program collection
