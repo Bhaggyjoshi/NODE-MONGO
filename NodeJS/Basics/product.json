@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "p_name": "Samsung Galaxy Book",
+        "price": 80000,
+        "ratting": 4.5
+    },
+    {
+        "id": 4,
+        "p_name": "Lenovo Ipad",
+        "price": 70000,
+        "ratting": 4.2
+    },
+    {
+        "id": 5,
+        "p_name": "Mi Pro-Book",
+        "price": 60000,
+        "ratting": 4.4
+    },
+    {
+        "id": 6,
+        "p_name": "Dell Inspiron",
+        "price": 75000,
+        "ratting": 4.8
+    },
+    {
+        "id": 1,
+        "p_name": "Apple MacBook",
+        "price": 125000,
+        "ratting": 4.8
+    },
+    {
+        "id": 3,
+        "p_name": "HP",
+        "price": 65000,
+        "ratting": 4.8
+    }
+]
