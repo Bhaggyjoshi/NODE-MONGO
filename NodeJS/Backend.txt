@@ -1,0 +1,10 @@
+Backend = >
+in which we work with the business logic and databases , third party softwares
+
+API = >  Application Program Interface
+any program , function which gives you input or output
+
+WEB API => where we can access it through some url
+
+How they communicate?
+=> 
